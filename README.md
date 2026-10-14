@@ -1,9 +1,6 @@
-# Mehram, Ludhiana
+# Mehram Engineering Corporation, Ludhiana
 
-Website for the Mehram family companies in Focal Point, Ludhiana:
-
-- Mehram Engineering Corporation (est. 1976): hose line end fittings and hose assemblies
-- Mehram Industries (est. 1989): bicycle bottom bracket axles, cups, fittings and ball retainers
+Website for Mehram Engineering Corporation (est. 1976), Focal Point, Ludhiana: hose line end fittings and hose assemblies. Founded by the late S. Balbir Singh Mehram, run by S. Gurmehar Singh Mehram.
 
 ## Layout
 
