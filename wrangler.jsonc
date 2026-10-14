@@ -1,0 +1,13 @@
+{
+  "name": "mehramindustries",
+  "compatibility_date": "2025-09-01",
+  "workers_dev": true,
+  "routes": [
+    {"pattern": "harmanat.com/mehramindustries*", "zone_name": "harmanat.com"}
+  ],
+  "assets": {
+    "directory": "./public",
+    "html_handling": "auto-trailing-slash",
+    "not_found_handling": "404-page"
+  }
+}
